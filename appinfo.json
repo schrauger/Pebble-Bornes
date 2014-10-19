@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sayno2quat@gmail.com",
+    "longName": "Mille Bornes",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pug.png",
+                "name": "IMAGE_PUG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Mille Bornes",
+    "uuid": "0cbac732-ad6e-476a-82be-fe7c136db028",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
